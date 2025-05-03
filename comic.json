@@ -8,5 +8,11 @@
     "slice of life",
     "school"
   ],
-  "description": "Seorang siswi berprestasi di sekolahku yang ternyata memiliki sisi seorang Gamer toxic yang mulutnya pedas"
+  "description": "Seorang siswi berprestasi di sekolahku yang ternyata memiliki sisi seorang Gamer toxic yang mulutnya pedas",
+  "chapters": [
+    {
+      "id": "ch_1",
+      "panels": []
+    }
+  ]
 }
