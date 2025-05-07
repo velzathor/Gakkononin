@@ -22,7 +22,9 @@
     },
     {
       "id": "ch_2",
-      "panels": []
+      "panels": [
+        "img_11.jpg"
+      ]
     }
   ]
 }
