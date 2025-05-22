@@ -41,7 +41,9 @@
     },
     {
       "id": "ch_4",
-      "panels": []
+      "panels": [
+        "img_1.jpg"
+      ]
     }
   ]
 }
